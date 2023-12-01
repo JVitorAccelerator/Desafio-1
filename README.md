@@ -13,7 +13,11 @@ Desafio para teste de desenvolvedor flutter
 
 3. Execute o arquivo
    ```bash
-   dart SomatóriaDivisores
+   dart SomaDivisores.dart
+
+4. Alternativamente você pode clicar com o botão direito no arquivo e executar.
+
+5. Digite um número para o somatório de divisiveis por 3 e 5!
    
 
 
